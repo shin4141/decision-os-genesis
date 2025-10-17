@@ -25,7 +25,8 @@ This repository is the **Genesis** stamp—an immutable public record of the V1 
 
 ## Integrity
 Release: `DecisionOS_Genesis_v1.0.zip`  
-SHA-256: `<< paste actual hash after upload >>`
+SHA-256: `<< 88ade1bb9a7225def1304757cd253305ed71f3de7b8d2a25c81ec9e15b4db8e5
+ >>`
 
 **Verify**
 ```bash
