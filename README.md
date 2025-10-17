@@ -25,24 +25,8 @@ This repository is the **Genesis** stamp—an immutable public record of the V1 
 
 ## Integrity
 Release: `DecisionOS_Genesis_v1.0.zip`  
-SHA-256: `<< paste actual hash after uploading >>`
-
-Verify:
-```bash
-shasum -a 256 DecisionOS_Genesis_v1.0.zip
-
-## Integrity
-Release: `DecisionOS_Genesis_v1.0.zip`  
 SHA-256: `<< paste actual hash after upload >>`
 
-Verify:
+**Verify**
 ```bash
 shasum -a 256 DecisionOS_Genesis_v1.0.zip
-
-
-2) **Roadmap（今週の1手だけ）**（任意）
-
-```markdown
-## Roadmap (This Week)
-- [ ] Draft release `v1.0.1`: Glossary (1p) + 10-sec card template (1 sheet)
-- [ ] Open Sponsors tiers (Starter / Pro / Founder)
