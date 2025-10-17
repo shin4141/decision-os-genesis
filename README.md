@@ -31,3 +31,6 @@ SHA-256: `<< 88ade1bb9a7225def1304757cd253305ed71f3de7b8d2a25c81ec9e15b4db8e5
 **Verify**
 ```bash
 shasum -a 256 DecisionOS_Genesis_v1.0.zip
+
+## Public Proof (PNG)
+![Genesis Proof](PROOF/DecisionOS_Genesis-Proof_v2_2025-10-17.png)
