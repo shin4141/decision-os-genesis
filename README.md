@@ -4,8 +4,6 @@ Sales / Support (JP/EN)
 通常価格：¥50,000 ／ 72h 早割：¥40,000
 購入フロー：決済 → 購入時メールへNotion権限付与（24h以内）
 返金ポリシー：デジタル特性上、原則返金不可（重複決済・明確な不備は個別対応）
-サポート：support+decisionv4@yourmail.com
- ／ または GitHub Discussions
 
 購入リンク：
 
