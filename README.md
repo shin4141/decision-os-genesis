@@ -34,3 +34,21 @@ shasum -a 256 DecisionOS_Genesis_v1.0.zip
 
 ## Public Proof (PNG)
 ![Genesis Proof](PROOF/DecisionOS_Genesis-Proof_v2_2025-10-17.png)
+
+---
+
+## HQ-CHANGE : Lineage Fix v2025-10-21 JST
+
+> Commit Reason: 系譜章（Lineage）を正式に固定し、Polaris→DGIS→SiriusA の連続性を証跡化するため。  
+> Authority: HQ (Shin)  
+> VersionID: LINEAGE-FIX-v2025-10-21 JST
+
+### Git Command Log (macOS 例)
+```bash
+git add -A
+git commit -m "chore(hq-change): Lineage Fix v2025-10-21 JST"
+git tag preV-polaris
+git tag v4-dgis
+git tag v5-siriusA
+git push && git push --tags
+
